@@ -36,6 +36,7 @@ JavaScript dependencies
 - `npm run watch`: watch for the filesystem and have Melange rebuild on every
 change
 - `npm run serve`: serve the application with a local HTTP server
+- `npm run test`: run test via dune build system.
 
 ## JavaScript output
 
